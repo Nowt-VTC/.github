@@ -8,8 +8,8 @@ patch_notes_info : _nameless.247.c048.a090 {
 }
 
 patch_notes_data : _nameless.000.nowt.bldy {
- game_version: "0"
- title: "NOWT Tracker | 1.49 Update"
+ game_version: 0
+ title: "<color value=FF5550FF>NOWT Tracker | 1.49 Update"
  url: "https://hub.nowt.cc/update/"
  text_pml: "update info message here fr"
 }
