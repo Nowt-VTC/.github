@@ -1,1 +1,17 @@
+SiiNunit
+{
+patch_notes_info : _nameless.247.c048.a090 {
+ lang_id: en_gb
+ content_id: "Tue, 28 Nov 2023 07:51:38 GMT"
+ messages: 1
+ messages[0]: _nameless.000.nowt.bldy
+}
 
+patch_notes_data : _nameless.000.nowt.bldy {
+ game_version: "0"
+ title: "NOWT Tracker | 1.49 Update"
+ url: "https://hub.nowt.cc/update/"
+ text_pml: "update info message here fr"
+}
+
+}
